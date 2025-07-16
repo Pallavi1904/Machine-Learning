@@ -43,3 +43,19 @@ A concise and beginner-friendly **Machine Learning Cheatsheet** covering key con
 - Compact, structured, and beginner-friendly
 - Ideal for students, developers, and interview prep
 
+## 💡 Why Use This?
+
+  Machine-Learning/
+├── Notes/
+│   ├── Pandas.doc
+│   ├── Numpy.docs
+│   ├── Matplotlib.docs
+│   ├── Scikit.docs
+├── Cleanin Data/
+│   ├── 1_Finding_missing values
+│   ├── loan_prediction.ipynb
+│   └── wine_prediction.ipynb
+├── Games/
+│   └── rock_paper_scissors.ipynb
+└── README.md
+
