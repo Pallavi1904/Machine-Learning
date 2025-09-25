@@ -123,7 +123,7 @@ A concise and beginner-friendly **Machine Learning Cheatsheet** covering key con
 │   ├── 46_Vote_Average(Classification).ipynb
 │   ├── 47_VotingAverage(Regression).ipynb
 │   ├── 48_Bagging(Classification).ipynb
-|   ├── 48_Bagging(Classification).ipynb
+|   ├── 48_Bagging(Regression).ipynb
 └── README.md
 
 ```
