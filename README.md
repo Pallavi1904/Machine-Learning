@@ -1,4 +1,4 @@
-# 🧠 Machine Learning Cheatsheet 
+# 🧠 Machine Learning Cheatsheet    
    
 A concise and beginner-friendly **Machine Learning Cheatsheet** covering key concepts, algorithms, equations, and code snippets in Python. Perfect for quick revision, interview prep, and academic reference.
 
